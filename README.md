@@ -31,4 +31,4 @@ Based on the data I will build a model to predict the price of a diamond given i
 #### Conclusions:
 
 * color and clarity are two of the most important features that determine price
-* carats influence the price of a diamond but there is large variance 
+* carats influence the price of a diamond but there is large variance in price 
