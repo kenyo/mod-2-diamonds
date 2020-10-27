@@ -1,4 +1,4 @@
-## mod-2-final-project
+## Modeling the Price of a Diamond  
 
 The final project will focus on [kaggle's diamond data set](https://www.kaggle.com/shivam2503/diamonds).
 Based on the data I will build a model to predict the price of a diamond given its attributes.
